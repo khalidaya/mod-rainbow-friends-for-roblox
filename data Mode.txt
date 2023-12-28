@@ -43,10 +43,10 @@
 "detail_text_title":"how to use title text",
 "detail_text1":"1) open file in chrome.. and File is Auto Downloading..\n\n 2) open Download folder and Extract to .zip file which ", 
  
-"banner_network_choice":"admob", 
-"interstisial_network_choice":"admob", 
-"reward_network_choice":"admob",
-"native_network_choice":"admob",
+"banner_network_choice":"NO", 
+"interstisial_network_choice":"NO", 
+"reward_network_choice":"NO",
+"native_network_choice":"NO",
   
 "huawei_banner":"testw6vs28auh3",
 "huawei_inter":"testb4znbuh3n2",
